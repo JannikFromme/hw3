@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', async function() {
       }
   
   //Provide human-readable output in the console
-  console.log(`Noober ${serviceLevel} Passenger: ${passengerFirstName} ${passengerLastName} - ${passengerPhoneNumber}. Pickup at ${pickupAddress}, ${pickupCity}, ${pickupState} ${pickupZIP}. Drop-off at ${dropoffAddress}, ${dropoffCity}, ${dropoffState} ${dropoffZIP}`)
+  console.log(`Noober ${serviceLevel} Passenger: ${passengerFirstName} ${passengerLastName} - ${passengerPhoneNumber}. Pickup at ${pickupAddress}, ${pickupCity}, ${pickupState} ${pickupZIP}. Drop-off at ${dropoffAddress}, ${dropoffCity}, ${dropoffState} ${dropoffZIP}.`)
 
   // 🔥 YOUR CODE ENDS HERE 🔥
 })
